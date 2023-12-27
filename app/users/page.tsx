@@ -1,3 +1,5 @@
+// app/users/page.tsx
+
 import styles from '../page.module.css';
 import users from './user_data.json';
 import Link from 'next/link';
